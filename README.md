@@ -1,12 +1,6 @@
-# 🔗 URL Shortener - MERN Stack Production-Level App
+# 🔗 URL Shortener - MERN Stack App
 
 A **Production-Ready URL Shortener** built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and styled with **Tailwind CSS**. This project includes full backend API functionality, a responsive frontend using **Vite + React**, and deployment-ready configuration.
-
----
-
-## 📸 Demo
-
-![App Screenshot](./assets/demo.gif) <!-- Replace with your own demo image or remove -->
 
 ---
 
