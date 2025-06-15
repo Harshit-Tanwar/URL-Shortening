@@ -30,8 +30,6 @@ A **Production-Ready URL Shortener** built using the **MERN Stack** (MongoDB, Ex
 
 ---
 
----
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
